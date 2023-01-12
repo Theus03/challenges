@@ -92,7 +92,7 @@ progress::-webkit-progress-bar {
 progress::-webkit-progress-value {
     background-color: #D9D9D9 !important;
     border-radius: 50px;
-    height: 10px
+    height: 8px
 }
 
 progress::-moz-progress-bar {
